@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="activity_detail_new">Add new product</string>
+    <string name="activity_detail_edit">Edit product</string>
+
+    <string name="empty_text_view">No items found</string>
+
+    <string name="action_insert_dummy_data">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_insert_item">Add an item</string>
+    <string name="name_field">Item Name:</string>
+    <string name="name_hint">Enter an item</string>
+    <string name="quantity_field">Quantity:</string>
+    <string name="price_field">Price:</string>
+    <string name="price_hint">0</string>
+    <string name="quantity_zero">0</string>
+    <string name="quantity_ten">10</string>
+    <string name="button_increase_one">+</string>
+    <string name="button_decrease_one">-</string>
+    <string name="modify_quantity_field">Modify Quantity By:</string>
+    <string name="button_select_image">Select image...</string>
+    <string name="supplier_email">my_dear@best_supplier.com</string>
+    <string name="toast_insert_or_update_product_failed">Product not saved</string>
+    <string name="toast_delete_product_success">Product successfully deleted!</string>
+    <string name="toast_delete_product_failed">Not delete</string>
+    <string name="toast_invalid_quantity">No less than 0</string>
+    <string name="toast_missing_quantity">Insert quantity</string>
+    <string name="toast_invalid_name_add">Insert a name</string>
+    <string name="toast_invalid_quantity_add">Insert quantity</string>
+    <string name="toast_invalid_price_add">Insert price</string>
+    <string name="toast_invalid_image_add">Insert image</string>
+    <string name="prompt_delete">Delete</string>
+    <string name="prompt_cancel">Cancel</string>
+    <string name="prompt_yes">Yes</string>
+    <string name="button_sale">sale</string>
+    <string name="label_quantity"> In stock</string>
+    <string name="label_price"> €</string>
+    <string name="button_order"> Order </string>
+    <string name="button_order_supplier">Order supplier</string>
+
+</resources>
